@@ -22,12 +22,13 @@ The format is based on [Keep a Changelog](http://keepachangelog.com/en/1.0.0/)
 - Added Bravo - default controller in a subfolder
 - Added charlie/brown controller
 
+### Removed
+- Deleted unnecessary route
+
 ## [0.2] - 2018-01-31
 ### Added
 - Added Delta - controller in a subfolder
+- Added Echo - subcontroller in a subfolder
 
 ### Changed
 - Updated .gitignore for webstorm
-
-### Removed
-- Deleted unnecessary route
