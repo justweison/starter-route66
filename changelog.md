@@ -14,6 +14,12 @@ The format is based on [Keep a Changelog](http://keepachangelog.com/en/1.0.0/)
 - First Mate - Jason Chen
 - Second Mate - Justin Leung
 
+## [0.2] - 2018-01-31
+### Added
+- Added Delta - controller in a subfolder
+- Added Echo - subcontroller in a subfolder
+- Added Foxtrot - Remapped foxtrot route to use controllers/Tango controller.
+
 ## [0.1] - 2018-01-31
 ### Added
 - Forked https://github.com/jedi-academy/starter-route66
@@ -24,11 +30,6 @@ The format is based on [Keep a Changelog](http://keepachangelog.com/en/1.0.0/)
 
 ### Removed
 - Deleted unnecessary route
-
-## [0.2] - 2018-01-31
-### Added
-- Added Delta - controller in a subfolder
-- Added Echo - subcontroller in a subfolder
 
 ### Changed
 - Updated .gitignore for webstorm
