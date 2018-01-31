@@ -21,7 +21,11 @@ The format is based on [Keep a Changelog](http://keepachangelog.com/en/1.0.0/)
 - Added Foxtrot - Remapped foxtrot route to use controllers/Tango controller.
 - Added Juliet - a service controller
 - Added Golf - remapped with regular expression
+- Added Kilo - Remapping to a controller
 - Added Lima - Menu Target Links
+
+### Changed
+- Updated remapped with callback routing /bananas/rule
 
 ## [0.1] - 2018-01-31
 ### Added
