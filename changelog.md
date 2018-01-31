@@ -18,6 +18,7 @@ The format is based on [Keep a Changelog](http://keepachangelog.com/en/1.0.0/)
 ### Added
 - Added Delta - controller in a subfolder
 - Added Echo - subcontroller in a subfolder
+- Added Foxtrot - Remapped foxtrot route to use controllers/Tango controller.
 - Added Juliet - a service controller
 
 ## [0.1] - 2018-01-31
