@@ -14,6 +14,11 @@ The format is based on [Keep a Changelog](http://keepachangelog.com/en/1.0.0/)
 - First Mate - Jason Chen
 - Second Mate - Justin Leung
 
+## [0.2] - 2018-01-31
+### Added
+- Added Delta - controller in a subfolder
+- Added Juliet - a service controller
+
 ## [0.1] - 2018-01-31
 ### Added
 - Forked https://github.com/jedi-academy/starter-route66
@@ -21,10 +26,6 @@ The format is based on [Keep a Changelog](http://keepachangelog.com/en/1.0.0/)
 - Added controllers/able.php to target link /able
 - Added Bravo - default controller in a subfolder
 - Added charlie/brown controller
-
-## [0.2] - 2018-01-31
-### Added
-- Added Delta - controller in a subfolder
 
 ### Changed
 - Updated .gitignore for webstorm
