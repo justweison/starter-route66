@@ -16,17 +16,13 @@ The format is based on [Keep a Changelog](http://keepachangelog.com/en/1.0.0/)
 
 ## [0.1] - 2018-01-31
 ### Added
-- charlie/brown controller
-
-### Changed
-- Updated .gitignore for webstorm
-- Updated changelog entry
-
-## [0.1] - 2018-01-31
-### Added
 - Forked https://github.com/jedi-academy/starter-route66
 - Added changelog to follow keepachangelog conventions and added team members and roles
 - Added controllers/able.php to target link /able
+- Added charlie/brown controller
+
+### Changed
+- Updated .gitignore for webstorm
 
 ### Removed
 - Deleted unnecessary route
