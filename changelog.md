@@ -22,6 +22,8 @@ The format is based on [Keep a Changelog](http://keepachangelog.com/en/1.0.0/)
 - Added Juliet - a service controller
 - Added Golf - remapped with regular expression
 - Added Kilo - Remapping to a controller
+- Added India - a utility controller
+- Added data/log.png
 
 ### Changed
 - Updated remapped with callback routing /bananas/rule
