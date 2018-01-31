@@ -17,6 +17,7 @@ The format is based on [Keep a Changelog](http://keepachangelog.com/en/1.0.0/)
 ## [0.2] - 2018-01-31
 ### Added
 - Added Delta - controller in a subfolder
+- Added Echo - subcontroller in a subfolder
 - Added Juliet - a service controller
 
 ## [0.1] - 2018-01-31
@@ -27,8 +28,8 @@ The format is based on [Keep a Changelog](http://keepachangelog.com/en/1.0.0/)
 - Added Bravo - default controller in a subfolder
 - Added charlie/brown controller
 
-### Changed
-- Updated .gitignore for webstorm
-
 ### Removed
 - Deleted unnecessary route
+
+### Changed
+- Updated .gitignore for webstorm
