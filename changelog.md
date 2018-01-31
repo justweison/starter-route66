@@ -22,6 +22,9 @@ The format is based on [Keep a Changelog](http://keepachangelog.com/en/1.0.0/)
 - Added Juliet - a service controller
 - Added Golf - remapped with regular expression
 
+### Changed
+- Updated remapped with callback routing /bananas/rule
+
 ## [0.1] - 2018-01-31
 ### Added
 - Forked https://github.com/jedi-academy/starter-route66
