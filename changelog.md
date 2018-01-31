@@ -19,3 +19,6 @@ The format is based on [Keep a Changelog](http://keepachangelog.com/en/1.0.0/)
 - Forked https://github.com/jedi-academy/starter-route66
 - Added changelog to follow keepachangelog conventions and added team members and roles
 - Added controllers/able.php to target link /able
+
+### Removed
+- Deleted unnecessary route
