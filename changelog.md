@@ -20,6 +20,7 @@ The format is based on [Keep a Changelog](http://keepachangelog.com/en/1.0.0/)
 - Added changelog to follow keepachangelog conventions and added team members and roles
 - Added controllers/able.php to target link /able
 - Added Bravo - default controller in a subfolder
+- Added Delta - controller in a subfolder
 
 ### Removed
 - Deleted unnecessary route
