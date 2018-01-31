@@ -1,7 +1,7 @@
 <?php
 defined('BASEPATH') OR exit('No direct script access allowed');
 
-class Brown extends Application
+class Charlie extends Application
 {
 
 	function __construct()
@@ -9,9 +9,9 @@ class Brown extends Application
 		parent::__construct();
 	}
 
-	public function index()
+
+	public function brown()
 	{
         $this->show(3);
 	}
-
 }
